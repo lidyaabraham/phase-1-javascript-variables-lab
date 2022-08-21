@@ -1,11 +1,15 @@
-    function companyName = "Scuber"
-    let companyName= "Scuber"
-    // const companyName= "Scuber"
+    // Code your solution in this file!
+let companyName = 'Scuber';
+function companyName () {
+    const companyName = 'Scuber';
+}
 
-    function mostProfitableNeighborhood = "Chelsea"
-    let mostProfitableNeighborhood = "Chelsea" 
-    // const mostProfitableNeighborhood ="Chelsea"
+let mostProfitableNeighborhood = 'Chelsea';
+function mostProfitableNeighborhood () {
+    let mostProfitableNeighborhood = 'Chelsea';
+}
 
-    function companyCeo = "Susan Smith"
-    let companyCeo = "Susan Smith" 
-    // const companyCeo ="Susan Smith"
+let companyCeo = 'Susan Smith';
+function companyCeo () {
+    let companyCeo = 'Susan Smith';
+}
